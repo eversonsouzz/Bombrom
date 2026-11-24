@@ -73,7 +73,7 @@ on:
           - SM-S901E
           - SM-S911B
           - None
-        default: "SM-A225F"
+        default: "SM-A736B"
 
       USE_UI_8_TETHERING_APEX:
         description: "Set True if your kernel BPF version is 5.4 (lower than 5.10)."
